@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a tenth semester student of Systems Engineering at the National University of Colombia, with knowlenge in Java, C++,
+Python, and Groovy & Grails.
 
 ### More Information
 
@@ -12,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dfpedrazag@gmail.com](mailto:dfpedrazag@gmail.com)
